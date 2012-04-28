@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Devices>
+  <Device name="本地测试1" ip="127.0.0.1" port="12345" />
+  <Device name="你好" ip="192.168.1.110" port="12345" />
+  <Device name="测试1" ip="192.168.8.80" port="12345" />
+  <Device name="你好2" ip="127.0.0.3" port="12345" />
+</Devices>

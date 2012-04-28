@@ -1,0 +1,80 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B71C106E-779A-448D-B16A-AD626C9E8305}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <NoStandardLibraries>false</NoStandardLibraries>
+    <AssemblyName>cui</AssemblyName>
+    <RootNamespace>cui</RootNamespace>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>.\bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>.\bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="cui\bin\Debug\cui.exe" />
+    <Content Include="cui\bin\Debug\cui.pdb" />
+    <Content Include="cui\bin\Debug\cui.vshost.exe" />
+    <Content Include="cui\bin\Debug\RoundButton.dll" />
+    <Content Include="cui\cui.csproj" />
+    <Content Include="cui\obj\x86\Debug\cui.csproj.FileListAbsolute.txt" />
+    <Content Include="cui\obj\x86\Debug\cui.exe" />
+    <Content Include="cui\obj\x86\Debug\cui.pdb" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="cui\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cui\Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="cui\Program.cs" />
+    <Compile Include="cui\Properties\AssemblyInfo.cs" />
+    <Compile Include="cui\Properties\Resources.Designer.cs" />
+    <Compile Include="cui\Properties\Settings.Designer.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="cui\Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cui\obj\x86\Debug\cui.Form1.resources" />
+    <EmbeddedResource Include="cui\obj\x86\Debug\cui.Properties.Resources.resources" />
+    <EmbeddedResource Include="cui\Properties\Resources.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="cui\bin\Debug\cui.vshost.exe.manifest" />
+    <None Include="cui\obj\x86\Debug\DesignTimeResolveAssemblyReferences.cache" />
+    <None Include="cui\obj\x86\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
+    <None Include="cui\obj\x86\Debug\GenerateResource.read.1.tlog" />
+    <None Include="cui\obj\x86\Debug\GenerateResource.write.1.tlog" />
+    <None Include="cui\obj\x86\Debug\ResolveAssemblyReference.cache" />
+    <None Include="cui\Properties\Settings.settings" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="cui\obj\x86\Debug\TempPE\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSHARP.Targets" />
+  <ProjectExtensions>
+    <VisualStudio AllowExistingFolder="true" />
+  </ProjectExtensions>
+</Project>

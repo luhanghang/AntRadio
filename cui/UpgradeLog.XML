@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="cui">
+</Property><Property Name="Solution File" Value="Z:\Dropbox\Public\cui\cui.sln">
+</Property><Property Name="User Options File" Value="Z:\Dropbox\Public\cui\cui.suo">
+</Property><Property Name="Date" Value="2011年8月2日">
+</Property><Property Name="Time" Value="14:04">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="cui.sln" Description="File successfully backed up as Z:\Dropbox\Public\cui\Backup\cui.sln">
+</Event><Event ErrorLevel="0" Project="" Source="cui.suo" Description="File successfully backed up as Z:\Dropbox\Public\cui\Backup\cui.suo">
+</Event><Event ErrorLevel="0" Project="cui" Source="cui.csproj" Description="Project file successfully backed up as Z:\Dropbox\Public\cui\Backup\cui.csproj">
+</Event><Event ErrorLevel="0" Project="cui" Source="cui\Form1.cs" Description="File successfully backed up as Z:\Dropbox\Public\cui\Backup\cui\Form1.cs">
+</Event><Event ErrorLevel="0" Project="cui" Source="cui\Form1.Designer.cs" Description="File successfully backed up as Z:\Dropbox\Public\cui\Backup\cui\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="cui" Source="cui\Program.cs" Description="File successfully backed up as Z:\Dropbox\Public\cui\Backup\cui\Program.cs">
+</Event><Event ErrorLevel="0" Project="cui" Source="cui\Properties\AssemblyInfo.cs" Description="File successfully backed up as Z:\Dropbox\Public\cui\Backup\cui\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="cui" Source="cui\Properties\Resources.Designer.cs" Description="File successfully backed up as Z:\Dropbox\Public\cui\Backup\cui\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="cui" Source="cui\Properties\Settings.Designer.cs" Description="File successfully backed up as Z:\Dropbox\Public\cui\Backup\cui\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="cui" Source="cui\bin\Debug\cui.vshost.exe.manifest" Description="File successfully backed up as Z:\Dropbox\Public\cui\Backup\cui\bin\Debug\cui.vshost.exe.manifest">
+</Event><Event ErrorLevel="0" Project="cui" Source="cui\obj\x86\Debug\DesignTimeResolveAssemblyReferences.cache" Description="File successfully backed up as Z:\Dropbox\Public\cui\Backup\cui\obj\x86\Debug\DesignTimeResolveAssemblyReferences.cache">
+</Event><Event ErrorLevel="0" Project="cui" Source="cui\obj\x86\Debug\DesignTimeResolveAssemblyReferencesInput.cache" Description="File successfully backed up as Z:\Dropbox\Public\cui\Backup\cui\obj\x86\Debug\DesignTimeResolveAssemblyReferencesInput.cache">
+</Event><Event ErrorLevel="0" Project="cui" Source="cui\obj\x86\Debug\GenerateResource.read.1.tlog" Description="File successfully backed up as Z:\Dropbox\Public\cui\Backup\cui\obj\x86\Debug\GenerateResource.read.1.tlog">
+</Event><Event ErrorLevel="0" Project="cui" Source="cui\obj\x86\Debug\GenerateResource.write.1.tlog" Description="File successfully backed up as Z:\Dropbox\Public\cui\Backup\cui\obj\x86\Debug\GenerateResource.write.1.tlog">
+</Event><Event ErrorLevel="0" Project="cui" Source="cui\obj\x86\Debug\ResolveAssemblyReference.cache" Description="File successfully backed up as Z:\Dropbox\Public\cui\Backup\cui\obj\x86\Debug\ResolveAssemblyReference.cache">
+</Event><Event ErrorLevel="0" Project="cui" Source="cui\Properties\Settings.settings" Description="File successfully backed up as Z:\Dropbox\Public\cui\Backup\cui\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="cui" Source="cui\bin\Debug\cui.exe" Description="File successfully backed up as Z:\Dropbox\Public\cui\Backup\cui\bin\Debug\cui.exe">
+</Event><Event ErrorLevel="0" Project="cui" Source="cui\bin\Debug\cui.pdb" Description="File successfully backed up as Z:\Dropbox\Public\cui\Backup\cui\bin\Debug\cui.pdb">
+</Event><Event ErrorLevel="0" Project="cui" Source="cui\bin\Debug\cui.vshost.exe" Description="File successfully backed up as Z:\Dropbox\Public\cui\Backup\cui\bin\Debug\cui.vshost.exe">
+</Event><Event ErrorLevel="0" Project="cui" Source="cui\bin\Debug\RoundButton.dll" Description="File successfully backed up as Z:\Dropbox\Public\cui\Backup\cui\bin\Debug\RoundButton.dll">
+</Event><Event ErrorLevel="0" Project="cui" Source="cui\cui.csproj" Description="File successfully backed up as Z:\Dropbox\Public\cui\Backup\cui\cui.csproj">
+</Event><Event ErrorLevel="0" Project="cui" Source="cui\obj\x86\Debug\cui.csproj.FileListAbsolute.txt" Description="File successfully backed up as Z:\Dropbox\Public\cui\Backup\cui\obj\x86\Debug\cui.csproj.FileListAbsolute.txt">
+</Event><Event ErrorLevel="0" Project="cui" Source="cui\obj\x86\Debug\cui.exe" Description="File successfully backed up as Z:\Dropbox\Public\cui\Backup\cui\obj\x86\Debug\cui.exe">
+</Event><Event ErrorLevel="0" Project="cui" Source="cui\obj\x86\Debug\cui.pdb" Description="File successfully backed up as Z:\Dropbox\Public\cui\Backup\cui\obj\x86\Debug\cui.pdb">
+</Event><Event ErrorLevel="0" Project="cui" Source="cui\Form1.resx" Description="File successfully backed up as Z:\Dropbox\Public\cui\Backup\cui\Form1.resx">
+</Event><Event ErrorLevel="0" Project="cui" Source="cui\obj\x86\Debug\cui.Form1.resources" Description="File successfully backed up as Z:\Dropbox\Public\cui\Backup\cui\obj\x86\Debug\cui.Form1.resources">
+</Event><Event ErrorLevel="0" Project="cui" Source="cui\obj\x86\Debug\cui.Properties.Resources.resources" Description="File successfully backed up as Z:\Dropbox\Public\cui\Backup\cui\obj\x86\Debug\cui.Properties.Resources.resources">
+</Event><Event ErrorLevel="0" Project="cui" Source="cui\Properties\Resources.resx" Description="File successfully backed up as Z:\Dropbox\Public\cui\Backup\cui\Properties\Resources.resx">
+</Event><Event ErrorLevel="1" Project="cui" Source="cui.csproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="cui" Source="cui.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="cui" Source="cui.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="cui.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="cui.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="cui" Source="cui.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

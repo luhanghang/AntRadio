@@ -1,0 +1,10 @@
+E:\visual studio 2010\Projects\cui\cui\bin\Debug\cui.exe
+E:\visual studio 2010\Projects\cui\cui\bin\Debug\cui.pdb
+E:\visual studio 2010\Projects\cui\cui\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\visual studio 2010\Projects\cui\cui\obj\x86\Debug\cui.Form1.resources
+E:\visual studio 2010\Projects\cui\cui\obj\x86\Debug\cui.Properties.Resources.resources
+E:\visual studio 2010\Projects\cui\cui\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\visual studio 2010\Projects\cui\cui\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\visual studio 2010\Projects\cui\cui\obj\x86\Debug\cui.exe
+E:\visual studio 2010\Projects\cui\cui\obj\x86\Debug\cui.pdb
+E:\visual studio 2010\Projects\cui\cui\bin\Debug\RoundButton.dll

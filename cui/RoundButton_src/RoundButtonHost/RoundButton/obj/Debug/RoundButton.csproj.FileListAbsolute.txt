@@ -1,0 +1,9 @@
+Z:\Dropbox\Public\cui\RoundButton_src\RoundButtonHost\RoundButton\bin\Debug\RoundButton.dll
+Z:\Dropbox\Public\cui\RoundButton_src\RoundButtonHost\RoundButton\bin\Debug\RoundButton.pdb
+Z:\Dropbox\Public\cui\RoundButton_src\RoundButtonHost\RoundButton\obj\Debug\ResolveAssemblyReference.cache
+Z:\Dropbox\Public\cui\RoundButton_src\RoundButtonHost\RoundButton\obj\Debug\RoundButton.Properties.Resources.resources
+Z:\Dropbox\Public\cui\RoundButton_src\RoundButtonHost\RoundButton\obj\Debug\GaryPerkin.UserControls.Buttons.RecessEditorControl.resources
+Z:\Dropbox\Public\cui\RoundButton_src\RoundButtonHost\RoundButton\obj\Debug\GenerateResource-ResGen.read.1.tlog
+Z:\Dropbox\Public\cui\RoundButton_src\RoundButtonHost\RoundButton\obj\Debug\GenerateResource-ResGen.write.1.tlog
+Z:\Dropbox\Public\cui\RoundButton_src\RoundButtonHost\RoundButton\obj\Debug\RoundButton.dll
+Z:\Dropbox\Public\cui\RoundButton_src\RoundButtonHost\RoundButton\obj\Debug\RoundButton.pdb

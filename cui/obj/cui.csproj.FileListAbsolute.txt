@@ -1,0 +1,6 @@
+Z:\Dropbox\Public\cui\obj\Debug\ResolveAssemblyReference.cache
+Z:\Dropbox\Public\cui\obj\Debug\cui.cui.obj.x86.Debug.cui.Form1.resources
+Z:\Dropbox\Public\cui\obj\Debug\cui.cui.obj.x86.Debug.cui.Properties.Resources.resources
+Z:\Dropbox\Public\cui\obj\Debug\cui.Form1.resources
+Z:\Dropbox\Public\cui\obj\Debug\cui.cui.Properties.Resources.resources
+Z:\Dropbox\Public\cui\obj\Debug\cui.csproj.GenerateResource.Cache
